@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0ef41181e57d40728d23163577515104/artifacts
+end_time: 1745738643373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ef41181e57d40728d23163577515104
+run_name: gentle-lynx-73
+run_uuid: 0ef41181e57d40728d23163577515104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745738642383
+status: 3
+tags: []
+user_id: ritik

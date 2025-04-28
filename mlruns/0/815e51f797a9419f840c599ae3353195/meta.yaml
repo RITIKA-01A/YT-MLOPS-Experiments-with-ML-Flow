@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/815e51f797a9419f840c599ae3353195/artifacts
+end_time: 1745737349852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 815e51f797a9419f840c599ae3353195
+run_name: unleashed-elk-385
+run_uuid: 815e51f797a9419f840c599ae3353195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745737349708
+status: 3
+tags: []
+user_id: ritik

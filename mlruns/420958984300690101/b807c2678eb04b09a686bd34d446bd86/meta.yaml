@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/420958984300690101/b807c2678eb04b09a686bd34d446bd86/artifacts
+end_time: 1745748549039
+entry_point_name: ''
+experiment_id: '420958984300690101'
+lifecycle_stage: active
+run_id: b807c2678eb04b09a686bd34d446bd86
+run_name: respected-mule-87
+run_uuid: b807c2678eb04b09a686bd34d446bd86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745748548353
+status: 3
+tags: []
+user_id: ritik

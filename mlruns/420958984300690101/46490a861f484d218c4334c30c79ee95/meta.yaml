@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/420958984300690101/46490a861f484d218c4334c30c79ee95/artifacts
+end_time: 1745751196163
+entry_point_name: ''
+experiment_id: '420958984300690101'
+lifecycle_stage: active
+run_id: 46490a861f484d218c4334c30c79ee95
+run_name: upbeat-shoat-792
+run_uuid: 46490a861f484d218c4334c30c79ee95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745751189871
+status: 3
+tags: []
+user_id: ritik

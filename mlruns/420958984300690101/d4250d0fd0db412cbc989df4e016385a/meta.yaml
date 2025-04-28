@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/420958984300690101/d4250d0fd0db412cbc989df4e016385a/artifacts
+end_time: 1745750081814
+entry_point_name: ''
+experiment_id: '420958984300690101'
+lifecycle_stage: active
+run_id: d4250d0fd0db412cbc989df4e016385a
+run_name: hilarious-pig-556
+run_uuid: d4250d0fd0db412cbc989df4e016385a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745750080871
+status: 3
+tags: []
+user_id: ritik

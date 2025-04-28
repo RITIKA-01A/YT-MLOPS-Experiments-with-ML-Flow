@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bbcb39883a404f6794ec1d98c541a929/artifacts
+end_time: 1745747995965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbcb39883a404f6794ec1d98c541a929
+run_name: shivering-ram-267
+run_uuid: bbcb39883a404f6794ec1d98c541a929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745747995032
+status: 3
+tags: []
+user_id: ritik
